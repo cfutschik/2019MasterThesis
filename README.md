@@ -1,5 +1,8 @@
 # 2019MasterThesis
-Source code for OpenFOAM modifications
+
+This github repository contains all the code manipulations outlined in the 2019 masters thesis "Advanced Devolatilisation model for Lagrangianparticles in OpenFOAM" by Christian Futschik. 
+
+https://qspace.library.queensu.ca/bitstream/handle/1974/27455/Futschik_Christian_191119_MASc.pdf?sequence=3&isAllowed=y
 
 >>> CompositionModel.C:
 - The Cp() function which is responsible for calculating particle phase cp values is found between lines #435-483
